@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on GitHub Milestone 2
+- 🌱 I’m currently learning how to use GitHub
+- 👯 I’m looking to collaborate on GitHub Project
+- 🤔 I’m looking for help with AIST2601 Proposal
+- 💬 Ask me about anything
+- 📫 How to reach me: 1155192013
+- 😄 Pronouns: He
+- ⚡ Fun fact: ...
